@@ -1,0 +1,27 @@
+Armani;36;Argentina National Team;player;goalkeeper;1
+Foyth;25;Argentina National Team;player;defender;2
+Tagliafico;30;Argentina National Team;player;defender;3
+Montiel;26;Argentina National Team;player;defender;4
+Paredes;28;Argentina National Team;player;midfield;5
+Pezzella;31;Argentina National Team;player;defender;6
+de_Paul;28;Argentina National Team;player;midfield;7
+Acuna;31;Argentina National Team;player;defender;8
+Alvarez;22;Argentina National Team;player;forward;9
+Messi;35;Argentina National Team;player;forward;10
+Di_Maria;34;Argentina National Team;player;forward;11
+Rulli;30;Argentina National Team;player;goalkeeper;12
+Romero;24;Argentina National Team;player;defender;13
+Palacios;24;Argentina National Team;player;midfield;14
+Correa;27;Argentina National Team;player;forward;15
+Almada;21;Argentina National Team;player;midfield;16
+Gomez;34;Argentina National Team;player;forward;17
+Rodriguez;28;Argentina National Team;player;midfield;18
+Otamendi;34;Argentina National Team;player;defender;19
+Mac_Allister;24;Argentina National Team;player;midfield;20
+Dybala;29;Argentina National Team;player;forward;21
+Lautaro;25;Argentina National Team;player;forward;22
+Martinez;30;Argentina National Team;player;goalkeeper;23
+Jenesaispas;77;Argentina National Team;logistics;take care of the health of team members
+IDontKnow;88;Argentina National Team;logistics;maintain training ground;guarantee training equipment
+Scaloni;44;Argentina National Team;coach;7;1
+Ayala;49;Argentina National Team;coach;4;0
